@@ -1,13 +1,44 @@
-👋 Hi, I’m @Venkatesh
+# 👋 Hi, I'm Venkatesh Kothamasu
 
-👀 I’m interested in full-stack development, user management systems, and exploring new technologies.
+## 📊 About Me
+I'm a passionate Data Analyst focused on transforming raw data into meaningful insights and interactive dashboards. I enjoy working with data visualization, business intelligence, and analytics to solve real-world problems.
 
-🌱 I’m currently learning advanced React.js, Node.js, and improving my skills with RESTful APIs.
+## 👀 Interests
+- Data Analysis
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
+- SQL & Database Management
+- Machine Learning Basics
 
-💞️ I’m looking to collaborate on open-source projects, especially related to web applications and UI/UX design.
+## 🌱 Currently Learning
+- Advanced SQL
+- Power BI
+- Tableau
+- Python for Data Analysis
+- Data Cleaning & Visualization Techniques
 
-📫 How to reach me: You can reach me via email at kothamasuvenkatesh79@gmail.com
+## 💞️ Looking to Collaborate On
+Projects related to:
+- Data Analytics
+- Business Intelligence Dashboards
+- Power BI & Tableau Projects
+- SQL and Python-Based Analysis
+- Open-Source Data Projects
 
-😄 Pronouns: He/Him
+## 🛠️ Tools & Technologies
+- Power BI
+- Tableau
+- SQL
+- Python
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
 
-⚡ Fun fact: I enjoy solving coding challenges and building small personal projects in my free time.
+## 📫 Contact Me
+- Email: **kothamasuvenkatesh79@gmail.com**
+- GitHub: **VenkY060905**
+
+## ⚡ Fun Fact
+I enjoy finding hidden insights in data and building dashboards that help businesses make better decisions.
