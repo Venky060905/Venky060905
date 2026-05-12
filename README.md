@@ -38,7 +38,7 @@ Projects related to:
 
 ## 📫 Contact Me
 - Email: **kothamasuvenkatesh79@gmail.com**
-- GitHub: **VenkY060905**
+- GitHub: **Venky060905**
 
 ## ⚡ Fun Fact
 I enjoy finding hidden insights in data and building dashboards that help businesses make better decisions.
